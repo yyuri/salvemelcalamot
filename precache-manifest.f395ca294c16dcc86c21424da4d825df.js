@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc5de15af855414d533d83eaec04f2f2",
+    "revision": "3be76b64ac9470637ba54d420f75383d",
     "url": "/salvemelcalamot/index.html"
   },
   {
-    "revision": "da12088db65a93da615a",
+    "revision": "d9f3bfeddbb86be464cc",
     "url": "/salvemelcalamot/static/css/main.77a45694.chunk.css"
   },
   {
-    "revision": "b00288b1c4007d44715f",
-    "url": "/salvemelcalamot/static/js/2.0205871d.chunk.js"
+    "revision": "76ea7927a4577fd251c9",
+    "url": "/salvemelcalamot/static/js/2.179957d5.chunk.js"
   },
   {
     "revision": "cccbdbb00528ba3f2c976f87938d383c",
-    "url": "/salvemelcalamot/static/js/2.0205871d.chunk.js.LICENSE"
+    "url": "/salvemelcalamot/static/js/2.179957d5.chunk.js.LICENSE"
   },
   {
-    "revision": "da12088db65a93da615a",
-    "url": "/salvemelcalamot/static/js/main.2c462533.chunk.js"
+    "revision": "d9f3bfeddbb86be464cc",
+    "url": "/salvemelcalamot/static/js/main.b12e3b43.chunk.js"
   },
   {
     "revision": "2063a58abdc9e85394ce",
