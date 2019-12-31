@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/salvemelcalamot/static/css/main.ad038e36.chunk.css",
-    "main.js": "/salvemelcalamot/static/js/main.c3289e1f.chunk.js",
-    "main.js.map": "/salvemelcalamot/static/js/main.c3289e1f.chunk.js.map",
+    "main.css": "/salvemelcalamot/static/css/main.5feca581.chunk.css",
+    "main.js": "/salvemelcalamot/static/js/main.c84ca948.chunk.js",
+    "main.js.map": "/salvemelcalamot/static/js/main.c84ca948.chunk.js.map",
     "runtime-main.js": "/salvemelcalamot/static/js/runtime-main.2740e762.js",
     "runtime-main.js.map": "/salvemelcalamot/static/js/runtime-main.2740e762.js.map",
-    "static/js/2.f2dce7b8.chunk.js": "/salvemelcalamot/static/js/2.f2dce7b8.chunk.js",
-    "static/js/2.f2dce7b8.chunk.js.map": "/salvemelcalamot/static/js/2.f2dce7b8.chunk.js.map",
+    "static/js/2.544a363b.chunk.js": "/salvemelcalamot/static/js/2.544a363b.chunk.js",
+    "static/js/2.544a363b.chunk.js.map": "/salvemelcalamot/static/js/2.544a363b.chunk.js.map",
     "index.html": "/salvemelcalamot/index.html",
-    "precache-manifest.c73b4cb0805b448a6fc49d8c18989b16.js": "/salvemelcalamot/precache-manifest.c73b4cb0805b448a6fc49d8c18989b16.js",
+    "precache-manifest.5df8f191787984a0efb80b7fb87bd307.js": "/salvemelcalamot/precache-manifest.5df8f191787984a0efb80b7fb87bd307.js",
     "service-worker.js": "/salvemelcalamot/service-worker.js",
-    "static/css/main.ad038e36.chunk.css.map": "/salvemelcalamot/static/css/main.ad038e36.chunk.css.map",
-    "static/js/2.f2dce7b8.chunk.js.LICENSE": "/salvemelcalamot/static/js/2.f2dce7b8.chunk.js.LICENSE",
+    "static/css/main.5feca581.chunk.css.map": "/salvemelcalamot/static/css/main.5feca581.chunk.css.map",
+    "static/js/2.544a363b.chunk.js.LICENSE": "/salvemelcalamot/static/js/2.544a363b.chunk.js.LICENSE",
     "static/media/aeri.jpg": "/salvemelcalamot/static/media/aeri.025124a8.jpg",
     "static/media/ajudesbanca.png": "/salvemelcalamot/static/media/ajudesbanca.ef3755bc.png",
     "static/media/algarrobo.jpg": "/salvemelcalamot/static/media/algarrobo.936113fc.jpg",
@@ -26,6 +26,7 @@
     "static/media/exploracio.jpg": "/salvemelcalamot/static/media/exploracio.9610bb28.jpg",
     "static/media/felip.gif": "/salvemelcalamot/static/media/felip.2c188374.gif",
     "static/media/kronos.jpg": "/salvemelcalamot/static/media/kronos.b6bda273.jpg",
+    "static/media/lagent.jpg": "/salvemelcalamot/static/media/lagent.2b9e495f.jpg",
     "static/media/lilogo.png": "/salvemelcalamot/static/media/lilogo.950ef429.png",
     "static/media/lilogo2.png": "/salvemelcalamot/static/media/lilogo2.29c21479.png",
     "static/media/lilogo4.png": "/salvemelcalamot/static/media/lilogo4.1ef0484a.png",
@@ -45,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2740e762.js",
-    "static/js/2.f2dce7b8.chunk.js",
-    "static/css/main.ad038e36.chunk.css",
-    "static/js/main.c3289e1f.chunk.js"
+    "static/js/2.544a363b.chunk.js",
+    "static/css/main.5feca581.chunk.css",
+    "static/js/main.c84ca948.chunk.js"
   ]
 }

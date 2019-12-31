@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8aaad5224ea58fde6301dd42aafbcb7",
+    "revision": "24b8e18afd4ae6dd90c1992dc26cb4f3",
     "url": "/salvemelcalamot/index.html"
   },
   {
-    "revision": "2f2ebf97e52398cfb9f1",
-    "url": "/salvemelcalamot/static/css/main.ad038e36.chunk.css"
+    "revision": "c05255cfa24ce0b39fba",
+    "url": "/salvemelcalamot/static/css/main.5feca581.chunk.css"
   },
   {
-    "revision": "6e7efb9f29e60389fda3",
-    "url": "/salvemelcalamot/static/js/2.f2dce7b8.chunk.js"
+    "revision": "58e708c9ca91622f643c",
+    "url": "/salvemelcalamot/static/js/2.544a363b.chunk.js"
   },
   {
     "revision": "8fe7c1d781ffe365074a36bac7f5d200",
-    "url": "/salvemelcalamot/static/js/2.f2dce7b8.chunk.js.LICENSE"
+    "url": "/salvemelcalamot/static/js/2.544a363b.chunk.js.LICENSE"
   },
   {
-    "revision": "2f2ebf97e52398cfb9f1",
-    "url": "/salvemelcalamot/static/js/main.c3289e1f.chunk.js"
+    "revision": "c05255cfa24ce0b39fba",
+    "url": "/salvemelcalamot/static/js/main.c84ca948.chunk.js"
   },
   {
     "revision": "89fe515e387a79e4c9d5",
@@ -78,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6bda273a74703936f794b994d3aa709",
     "url": "/salvemelcalamot/static/media/kronos.b6bda273.jpg"
+  },
+  {
+    "revision": "2b9e495f1952c9bf6ff097b511a4ab54",
+    "url": "/salvemelcalamot/static/media/lagent.2b9e495f.jpg"
   },
   {
     "revision": "950ef4296949af752c1f79e7c4a5eb77",
