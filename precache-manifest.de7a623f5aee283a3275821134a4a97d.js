@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3be76b64ac9470637ba54d420f75383d",
+    "revision": "5f2a6b3bd776253dabc5f6aea3a62a0d",
     "url": "/salvemelcalamot/index.html"
   },
   {
-    "revision": "d9f3bfeddbb86be464cc",
-    "url": "/salvemelcalamot/static/css/main.77a45694.chunk.css"
+    "revision": "f9242a288104aa995e37",
+    "url": "/salvemelcalamot/static/css/main.f007d7d0.chunk.css"
   },
   {
-    "revision": "76ea7927a4577fd251c9",
-    "url": "/salvemelcalamot/static/js/2.179957d5.chunk.js"
+    "revision": "5d37e2f20d22de1ca210",
+    "url": "/salvemelcalamot/static/js/2.9621fa40.chunk.js"
   },
   {
-    "revision": "cccbdbb00528ba3f2c976f87938d383c",
-    "url": "/salvemelcalamot/static/js/2.179957d5.chunk.js.LICENSE"
+    "revision": "8fe7c1d781ffe365074a36bac7f5d200",
+    "url": "/salvemelcalamot/static/js/2.9621fa40.chunk.js.LICENSE"
   },
   {
-    "revision": "d9f3bfeddbb86be464cc",
-    "url": "/salvemelcalamot/static/js/main.b12e3b43.chunk.js"
+    "revision": "f9242a288104aa995e37",
+    "url": "/salvemelcalamot/static/js/main.2526e7f5.chunk.js"
   },
   {
-    "revision": "2063a58abdc9e85394ce",
-    "url": "/salvemelcalamot/static/js/runtime-main.7f1486ce.js"
+    "revision": "89fe515e387a79e4c9d5",
+    "url": "/salvemelcalamot/static/js/runtime-main.2740e762.js"
   },
   {
     "revision": "025124a84f85680db61ea5ee15072285",
     "url": "/salvemelcalamot/static/media/aeri.025124a8.jpg"
-  },
-  {
-    "revision": "518019c61e3919cc6ba67580a22d3a52",
-    "url": "/salvemelcalamot/static/media/aiguesverdes.518019c6.jpg"
   },
   {
     "revision": "ef3755bc8c4d83509102ca7f8c0ebfcb",
@@ -80,12 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/salvemelcalamot/static/media/felip.2c188374.gif"
   },
   {
-    "revision": "107d41b6f5a693a9dad6868cf3003baa",
-    "url": "/salvemelcalamot/static/media/ipla3.107d41b6.jpg"
+    "revision": "b6bda273a74703936f794b994d3aa709",
+    "url": "/salvemelcalamot/static/media/kronos.b6bda273.jpg"
   },
   {
-    "revision": "d92c7154ebaa9b0b7211063441a7fdaf",
-    "url": "/salvemelcalamot/static/media/mapsriera.d92c7154.png"
+    "revision": "950ef4296949af752c1f79e7c4a5eb77",
+    "url": "/salvemelcalamot/static/media/lilogo.950ef429.png"
+  },
+  {
+    "revision": "1ef0484ad5251345891993fd60a384f7",
+    "url": "/salvemelcalamot/static/media/lilogo4.1ef0484a.png"
   },
   {
     "revision": "b7c38b89deb63117651836f32b7af01c",
@@ -134,5 +134,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "82fd749d48fbb6e26d983669f0b5a71b",
     "url": "/salvemelcalamot/static/media/vertix.82fd749d.jpg"
+  },
+  {
+    "revision": "e7acc704d5d8f04fcd6abd22f7e8a3e7",
+    "url": "/salvemelcalamot/static/media/viñeta.e7acc704.jpg"
   }
 ]);
