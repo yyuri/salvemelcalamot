@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/salvemelcalamot/precache-manifest.6f19c5a2c1a6032e9301a6ec56c81536.js"
+  "/salvemelcalamot/precache-manifest.c73b4cb0805b448a6fc49d8c18989b16.js"
 );
 
 self.addEventListener('message', (event) => {

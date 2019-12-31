@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/salvemelcalamot/static/css/main.ad038e36.chunk.css",
-    "main.js": "/salvemelcalamot/static/js/main.b62f60f2.chunk.js",
-    "main.js.map": "/salvemelcalamot/static/js/main.b62f60f2.chunk.js.map",
+    "main.js": "/salvemelcalamot/static/js/main.c3289e1f.chunk.js",
+    "main.js.map": "/salvemelcalamot/static/js/main.c3289e1f.chunk.js.map",
     "runtime-main.js": "/salvemelcalamot/static/js/runtime-main.2740e762.js",
     "runtime-main.js.map": "/salvemelcalamot/static/js/runtime-main.2740e762.js.map",
     "static/js/2.f2dce7b8.chunk.js": "/salvemelcalamot/static/js/2.f2dce7b8.chunk.js",
     "static/js/2.f2dce7b8.chunk.js.map": "/salvemelcalamot/static/js/2.f2dce7b8.chunk.js.map",
     "index.html": "/salvemelcalamot/index.html",
-    "precache-manifest.6f19c5a2c1a6032e9301a6ec56c81536.js": "/salvemelcalamot/precache-manifest.6f19c5a2c1a6032e9301a6ec56c81536.js",
+    "precache-manifest.c73b4cb0805b448a6fc49d8c18989b16.js": "/salvemelcalamot/precache-manifest.c73b4cb0805b448a6fc49d8c18989b16.js",
     "service-worker.js": "/salvemelcalamot/service-worker.js",
     "static/css/main.ad038e36.chunk.css.map": "/salvemelcalamot/static/css/main.ad038e36.chunk.css.map",
     "static/js/2.f2dce7b8.chunk.js.LICENSE": "/salvemelcalamot/static/js/2.f2dce7b8.chunk.js.LICENSE",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.2740e762.js",
     "static/js/2.f2dce7b8.chunk.js",
     "static/css/main.ad038e36.chunk.css",
-    "static/js/main.b62f60f2.chunk.js"
+    "static/js/main.c3289e1f.chunk.js"
   ]
 }
