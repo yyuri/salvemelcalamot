@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad038e36.chunk.css",
-    "main.js": "/static/js/main.cc33378b.chunk.js",
-    "main.js.map": "/static/js/main.cc33378b.chunk.js.map",
+    "main.css": "/static/css/main.a71c6400.chunk.css",
+    "main.js": "/static/js/main.956afeee.chunk.js",
+    "main.js.map": "/static/js/main.956afeee.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.70207601.js",
     "runtime-main.js.map": "/static/js/runtime-main.70207601.js.map",
-    "static/js/2.b1fa6632.chunk.js": "/static/js/2.b1fa6632.chunk.js",
-    "static/js/2.b1fa6632.chunk.js.map": "/static/js/2.b1fa6632.chunk.js.map",
+    "static/js/2.18df7308.chunk.js": "/static/js/2.18df7308.chunk.js",
+    "static/js/2.18df7308.chunk.js.map": "/static/js/2.18df7308.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4b7aadb4e05511952613a58ca84cfd62.js": "/precache-manifest.4b7aadb4e05511952613a58ca84cfd62.js",
+    "precache-manifest.880d9ca72ed776253ad5e56fd2120d99.js": "/precache-manifest.880d9ca72ed776253ad5e56fd2120d99.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ad038e36.chunk.css.map": "/static/css/main.ad038e36.chunk.css.map",
-    "static/js/2.b1fa6632.chunk.js.LICENSE": "/static/js/2.b1fa6632.chunk.js.LICENSE",
+    "static/css/main.a71c6400.chunk.css.map": "/static/css/main.a71c6400.chunk.css.map",
+    "static/js/2.18df7308.chunk.js.LICENSE": "/static/js/2.18df7308.chunk.js.LICENSE",
     "static/media/aeri.jpg": "/static/media/aeri.025124a8.jpg",
     "static/media/ajudesbanca.png": "/static/media/ajudesbanca.ef3755bc.png",
     "static/media/algarrobo.jpg": "/static/media/algarrobo.936113fc.jpg",
@@ -20,7 +20,7 @@
     "static/media/calamothead.jpg": "/static/media/calamothead.038b6a41.jpg",
     "static/media/canyars.jpg": "/static/media/canyars.d4bdbaae.jpg",
     "static/media/carreteres.jpg": "/static/media/carreteres.29b236d7.jpg",
-    "static/media/cartell.jpg": "/static/media/cartell.e8424117.jpg",
+    "static/media/cartell.jpg": "/static/media/cartell.60d0c3b8.jpg",
     "static/media/connector.jpg": "/static/media/connector.2c278d20.jpg",
     "static/media/contaminacio.jpg": "/static/media/contaminacio.3e034588.jpg",
     "static/media/contaminacio1.jpg": "/static/media/contaminacio1.cf9e5a2a.jpg",
@@ -47,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.70207601.js",
-    "static/js/2.b1fa6632.chunk.js",
-    "static/css/main.ad038e36.chunk.css",
-    "static/js/main.cc33378b.chunk.js"
+    "static/js/2.18df7308.chunk.js",
+    "static/css/main.a71c6400.chunk.css",
+    "static/js/main.956afeee.chunk.js"
   ]
 }
