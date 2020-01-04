@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2e20b083.chunk.css",
-    "main.js": "/static/js/main.0dcd7e4b.chunk.js",
-    "main.js.map": "/static/js/main.0dcd7e4b.chunk.js.map",
+    "main.js": "/static/js/main.d20d5da9.chunk.js",
+    "main.js.map": "/static/js/main.d20d5da9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.70207601.js",
     "runtime-main.js.map": "/static/js/runtime-main.70207601.js.map",
-    "static/js/2.2ef9c684.chunk.js": "/static/js/2.2ef9c684.chunk.js",
-    "static/js/2.2ef9c684.chunk.js.map": "/static/js/2.2ef9c684.chunk.js.map",
+    "static/js/2.18193564.chunk.js": "/static/js/2.18193564.chunk.js",
+    "static/js/2.18193564.chunk.js.map": "/static/js/2.18193564.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.717161ec110ce44553ea745c13c1bbd3.js": "/precache-manifest.717161ec110ce44553ea745c13c1bbd3.js",
+    "precache-manifest.4cda75a4c9918ffe664935ef9cdaee41.js": "/precache-manifest.4cda75a4c9918ffe664935ef9cdaee41.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2e20b083.chunk.css.map": "/static/css/main.2e20b083.chunk.css.map",
-    "static/js/2.2ef9c684.chunk.js.LICENSE": "/static/js/2.2ef9c684.chunk.js.LICENSE",
+    "static/js/2.18193564.chunk.js.LICENSE": "/static/js/2.18193564.chunk.js.LICENSE",
     "static/media/aeri.jpg": "/static/media/aeri.025124a8.jpg",
     "static/media/ajudesbanca.png": "/static/media/ajudesbanca.ef3755bc.png",
     "static/media/algarrobo.jpg": "/static/media/algarrobo.936113fc.jpg",
@@ -23,6 +23,7 @@
     "static/media/canyars.jpg": "/static/media/canyars.d4bdbaae.jpg",
     "static/media/carreteres.jpg": "/static/media/carreteres.29b236d7.jpg",
     "static/media/cartell.png": "/static/media/cartell.1727245d.png",
+    "static/media/cartell.jpg": "/static/media/cartell.60d0c3b8.jpg",
     "static/media/connector.jpg": "/static/media/connector.2c278d20.jpg",
     "static/media/contaminacio.jpg": "/static/media/contaminacio.3e034588.jpg",
     "static/media/contaminacio1.jpg": "/static/media/contaminacio1.cf9e5a2a.jpg",
@@ -54,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.70207601.js",
-    "static/js/2.2ef9c684.chunk.js",
+    "static/js/2.18193564.chunk.js",
     "static/css/main.2e20b083.chunk.css",
-    "static/js/main.0dcd7e4b.chunk.js"
+    "static/js/main.d20d5da9.chunk.js"
   ]
 }
